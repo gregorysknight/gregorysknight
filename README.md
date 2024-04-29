@@ -3,8 +3,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Active Directory Bulk User Creation](https://github.com/AD_PS)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/gregorysknight/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/gregorysknight/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/gregorysknight/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/gregorysknight/PowerShell-Integrity-FIM)
   
 <h2> 🤳 Connect with me:</h2>
 
